@@ -24,5 +24,5 @@ button2.addEventListener("click", () => {
 
 let button3 = document.getElementById("animateRight");
 button3.addEventListener("click", () => {
-    animateCSS('#Tabby', 'lightSpeedIn');
+    animateCSS('#Tabby', 'wobble');
 });
